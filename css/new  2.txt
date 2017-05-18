@@ -1,0 +1,46 @@
+<div class ="capaprin" id ="indice">
+
+		<article id="capa2">
+		<div class="capaprin">
+		<h1> TRABAJOS </h1>
+		<div class="capaprin" id="presentacion">
+		<p class="parrafoTrabajo">
+		
+		<div class="capaprin" >
+			<ul id="lista">
+				<li><a href = "#acabados">Acabados</a> </li>
+				<li><a href = "#dibujo"> Dibujo</a> </li>
+				<li><a href = "#animacion">Animación</a> </li>
+				<li> 
+			</ul>
+		</div>
+		</article>
+		<div class="capaprin" id="inicio">
+		<a href="Inicio.html"> INICIO</a>
+		</div>
+		<article>
+		<div class="capaprin" id="acabados">
+			<h3 id ="acabados"><u>Acabados</u></h3>
+			<h5>Coraza</h5>
+			<img src="media/coraza_RENDER1.jpg" alt="coraza_RENDER1.jpg"/>
+		
+		</div>
+		</article>
+		
+		<article>
+		<div class="capaprin" id="dibujo">
+			<h3 id="dibujo"><u>Dibujo</u></h3>
+			<img src="media/malo_planta.jpg" alt="malo_planta.jpg"/>
+			
+		</div>
+		</article>
+		
+		
+		<div class="capaprin" id="inicio">
+		<a href="Inicio.html"> INICIO</a>
+		</div>
+		</div>
+		</p>
+		
+		</div>
+		</article>

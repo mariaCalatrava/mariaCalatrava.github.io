@@ -1,0 +1,110 @@
+h1{
+	text-align: center;
+	font-family: "verdana";
+}
+body{
+	color: white;
+	background-position: center;
+	background-attachment: fixed;
+	background-image: url(../media/sea.jpg);
+}
+
+
+a:link {
+	color: white;
+	 text-decoration: none;
+}
+a:visited{
+	color: white;
+	 text-decoration: none;
+}
+a:hover{
+	color:purpple;
+	 text-decoration: none;
+}
+a:active{
+	color: black;
+	 text-decoration: none;
+}
+
+#titulo{
+	font-size: 25px;
+	padding: 20px;
+	margin: auto;
+	text-align:left;
+	font-family: verdana;
+	font-style: normal;
+	height: 130px
+}
+#logo{
+	position: absolute;
+	top: 20px;
+	right: 40px;
+	width:150px;
+	height:150px;
+}
+
+#informacion_basica{
+	background-image: url(../media/banner_azul.png);
+	width:630px;
+	height:700px;
+	margin: 20px;
+}
+#platos{
+	position: absolute;
+	top: 312px;
+	right: 40px;
+	width: 1185px;
+	height: 690px;
+}
+#indice{
+	font-size: 25px;
+	margin: 20px;
+	text-align:left;
+	font-family: verdana;
+	font-style: normal;
+	background-image: url(../media/fondo_banner.png);
+	width: 1850px;
+	height: 80px;
+}
+
+.parrafoMenu{
+	margin-left:100px;
+	width: 300px;
+	display: inline-block;
+	text-align:center;
+	font-family: "Arial";
+	font-size: 25px;
+}
+
+
+.informacionbasica{
+	font-size: 30px;
+	padding: 10px;
+	font-family: "Arial";
+	line-height: 1.8;
+}
+
+#menu {
+	text-align: center;
+	color: black;
+	font-size: 50px;
+	font-family: "Arial";
+}
+#capa2{
+	text-align:center;
+	display: hidden;
+	width:800px;
+	height: 1200px;
+	background-color:SlateBlue;
+	opacity: 0.9;
+	margin: auto;
+	position: absolute;
+	top: 100px;
+	left: 27%;
+}
+
+#presentacion{
+
+}
+

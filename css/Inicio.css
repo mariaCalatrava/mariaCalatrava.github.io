@@ -1,0 +1,140 @@
+#menu {
+	text-align: center;
+	color: black;
+	font-size: 50px;
+	font-family: "Arial";
+}
+
+
+
+
+h1{
+	color: paleTurquoise;
+	text-align: center;
+	font-family: "verdana";
+}
+body{
+	color: white;
+	background-position: center;
+	background-attachment: fixed;
+	background-image: url(../media/sea.jpg);
+}
+
+a:link {
+	color: white;
+	 text-decoration: none;
+}
+a:visited{
+	color: white;
+	 text-decoration: none;
+}
+a:hover{
+	color:red;
+	 text-decoration: none;
+}
+a:active{
+	color: black;
+	 text-decoration: none;
+}
+.parrafoMenu{
+	margin-left:100px;
+	width: 300px;
+	display: inline-block;
+	text-align:center;
+	font-family: "Arial";
+	font-size: 25px;
+}
+
+
+
+#titulo{
+	font-size: 25px;
+	padding: 20px;
+	margin: auto;
+	text-align:center;
+	font-family: verdana;
+	font-style: normal;
+	background-color: #471f66;
+	height: 130px
+}
+#imagen{
+	text-align: center;
+}
+#logo{
+	position: absolute;
+	top: 20px;
+	right: 40px;
+	width:150px;
+	height:150px;
+}
+
+body{
+	background-color:white;
+	color: black;
+	text-align:center;
+}
+
+#indice{
+	font-size: 25px;
+	margin: 20px;
+	text-align:left;
+	font-family: verdana;
+	font-style: normal;
+	width: 1850px;
+	height: 80px;
+}
+
+
+
+.container{
+	position: relative;
+	width: 300px;
+	height: 423px;	
+	margin: 50px auto 0 10px;
+	overflow: hidden;
+	display: inline-block;
+	
+}
+.container:hover .capaAuxTexto{
+	position: absolute;
+
+	z-index:1;
+}
+
+.capaAuxImagen{
+	position:absolute;
+	width: 300px;
+	height: 423px;
+	overflow: hidden;
+	z-index: 2;
+}
+
+.capaAuxTexto{
+	color:white;
+	background-color:SlateBlue;
+	width: 300px;
+	top: 0;
+	left: 0;
+	height: 423px;
+	margin: 0 auto 0 auto;
+	display:table;
+
+	position: absolute;
+	opacity: 1;
+	z-index: 5;
+}
+
+.enlace{
+	font-size:45px;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	margin: 0;
+}
+
+.enlace a:link{
+	color:white;
+	display: table;
+	font-size: 45px;
+	text-align: center;
+}

@@ -1,0 +1,125 @@
+h1{
+	text-align: center;
+	font-family: "verdana";
+}
+body{
+	color: white;
+	background-position: center;
+	background-attachment: fixed;
+	background-image: url(../media/sea.jpg);
+}
+
+
+a:link {
+	color: white;
+	 text-decoration: none;
+}
+a:visited{
+	color: white;
+	 text-decoration: none;
+}
+a:hover{
+	color: purple;
+	 text-decoration: none;
+}
+a:active{
+	color: black;
+	 text-decoration: none;
+}
+
+#titulo{
+	font-size: 25px;
+	padding: 20px;
+	margin: auto;
+	text-align:center;
+	font-family: verdana;
+	font-style: normal;
+	height: 100px;
+	border: solid red 2px;
+	background-color: #471f66;
+}
+
+
+
+.parrafoTrabajo{
+	margin-left:100px;
+	width: 300px;
+	display: inline-block;
+	text-align:center;
+	font-family: "Arial";
+	font-size: 25px;
+}
+
+
+.informacionbasica{
+	font-size: 30px;
+	padding: 10px;
+	font-family: "Arial";
+	line-height: 1.8;
+}
+
+
+#capaTrabajos{
+	text-align:center;
+	width:800px;
+	height: 300px;
+	background-color:SlateBlue;
+	opacity: 0.9;
+	margin: auto;
+}
+
+#lista{
+	list-style-type: none;
+	padding: 0;
+	font-style: italic;
+
+}
+
+#lista li{
+	margin: 0;
+}
+
+#acabados{
+	text-align:center;
+	font-style: italic;
+	
+}
+
+#dibujo{
+
+	font-style: italic;
+}
+#animacion{
+	text-align:center;
+	font-style: italic;
+}
+#inicio{
+	text-align:center;
+	font-style: italic;
+}
+
+.capaprin{
+	border: solid yellow 2px;
+	text-align: center;
+}
+
+.capaprin img{
+	margin-left: 20px;
+}
+
+.centrado{
+	text-align:center;
+	border: solid red 5px;
+}
+#imagen{
+	text-align: center;
+}
+#titulo{
+	font-size: 25px;
+	padding: 20px;
+	margin: auto;
+	text-align:left;
+	font-family: verdana;
+	font-style: normal;
+	height: 130px
+}
