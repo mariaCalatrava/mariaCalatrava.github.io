@@ -96,9 +96,8 @@ a:active{
 	text-align:center;
 	display: hidden;
 	width:800px;
-	height: 1300px;
-	background-color:SlateBlue;
-	opacity: 0.9;
+	height: 1650px;
+	background-color: rgba(0, 0, 0, 0.8);
 	margin: auto;
 	position: absolute;
 	top: 147px;
@@ -111,4 +110,7 @@ a:active{
 #inicio{
 	text-align:center;
 	font-style: italic;
+}
+#demo{
+	opacity: 1;
 }
